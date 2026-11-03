@@ -1,0 +1,92 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* ---------- Light mode ---------- */
+:root[data-bs-theme="light"] {
+  --sidebar-bg: #1269cc;
+  --sidebar-border-color: rgba(255, 255, 255, 0.35);
+  --sidebar-muted-color: #ffffff;
+  --sidebar-active-color: #51eefc;
+  --sidebar-hover-bg: rgba(255, 255, 255, 0.15);
+  --sidebar-btn-bg: #ffffff;
+  --sidebar-btn-color: #1269cc;
+  --site-title-color: #ffffff;
+  --site-subtitle-color: #ffffff;
+  
+  --menu-bg: #1269cc;
+  --menu-border-color: rgba(255, 255, 255, 0.35);
+  --menu-active-color: #51eefc;
+  --menu-highlight-bg: rgba(255, 255, 255, 0.15);
+  --menu-shadow-color: rgb(0 0 0 / 25%);
+
+  --main-bg: #ffffff;
+  --text-color: #303030;
+  --heading-color: #303030;
+  --link-color: #1269cc;
+
+  --topbar-bg: #ffffff;
+  --topbar-text-color: #ffffff;
+}
+
+/* ---------- Dark mode ---------- */
+:root[data-bs-theme="dark"] {
+  --sidebar-bg: #303030;
+  --sidebar-muted-color: #6d9ac7;
+  --sidebar-active-color: #51eefc;
+  --sidebar-hover-bg: rgba(81, 238, 252, 0.12);
+  --site-title-color: #ffffff;
+  --site-subtitle-color: #6d9ac7;
+
+  --link-color: #51eefc;
+}
+
+/* ---------- Persona-style sidebar buttons ---------- */
+#sidebar ul.nav {
+  padding-right: 0.75rem;
+}
+
+#sidebar ul > li.nav-item {
+  margin: 0.35rem 0;
+}
+
+#sidebar ul > li.nav-item a.nav-link {
+  border-radius: 0 !important;
+  transform: skewX(-14deg);
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: #ffffff !important;
+  background: transparent;
+  transition: transform 0.15s ease, background 0.15s ease, color 0.15s ease;
+}
+
+/* Hover: white slab with blue text */
+#sidebar ul > li.nav-item a.nav-link:hover {
+  background: #ffffff !important;
+  color: #1269cc !important;
+  transform: skewX(-14deg) translateX(6px);
+}
+
+/* Selected: cyan slab, dark navy text, hard drop shadow, pushed out */
+#sidebar ul > li.nav-item a.nav-link.active {
+  background: #51eefc !important;
+  color: #0a1f4d !important;
+  transform: skewX(-14deg) translateX(10px) scale(1.06);
+  /*box-shadow: 6px 6px 0 #0a1f4d8*/
+  filter: drop-shadow(6px 6px 0 #0a1f4d);
+}
+
+/* Keep icons matching the text colour */
+#sidebar ul > li.nav-item a.nav-link i {
+  color: inherit !important;
+  /* triangle button */
+  clip-path: polygon(0 0, calc(100% - 20px) 0, 100% 50%, calc(100% - 20px) 100%, 0 100%);
+  padding-right: 2rem;
+}
+
