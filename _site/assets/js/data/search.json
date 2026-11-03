@@ -5,7 +5,7 @@
     "url": "/posts/2026-10-25-Mathjax-practise/",
     "categories": "",
     "tags": "",
-    "date": "2026-11-03 23:31:00 +0000",
+    "date": "2026-11-03 23:34:00 +0000",
     "content": "\\(\\[   \\frac{\\partial y}{\\partial x} \\]\\)  [block math whatever that means]    \\(\\begin{equation}   LaTeX_math_expression   \\label{eq:label_name} \\end{equation}\\) [   E’ = \\frac{\\Delta\\sigma}{\\Delta\\epilson} ] $$ Can be referenced as \\eqref{eq:label_name}.    “Lorem ipsum dolor sit amet, \\(LaTeX_math_expression\\) consectetur adipiscing elit.”       \\(LaTeX_math_expression\\)   \\(LaTeX_math_expression\\)   \\(LaTeX_math_expression\\)"
   },
   
@@ -15,7 +15,7 @@
     "categories": "Pokemon, VGC",
     "tags": "pokemon, vgc",
     "date": "2026-11-03 23:29:00 +0000",
-    "content": "To get this out the way, let’s go through the line against Louis Fontvielle’s regional-winning rain team:  flowchart TD     A[\"Opp leads: Basculegion + Raichu X\"] --&gt; B[\"Our lead: Garchomp + Farigiraf&lt;br/&gt;Back: Charizard + Sylveon\"]     B --&gt; C[\"Turn 1:&lt;br/&gt;Garchomp switches to Sylveon&lt;br/&gt;Farigiraf uses Thunderbolt on Basculegion\"]     C --&gt; D{\"Did they switch in Pelipper?\"}     D -- Yes --&gt; E[\"Farigiraf: Thunderbolt Pelipper&lt;br/&gt;Sylveon: Protect\"]     D -- No --&gt; F[\"Sylveon: Protect&lt;br/&gt;Farigiraf: Trick Room\"]"
+    "content": "This post is to practise writing and posting these blog-like logs. It’s also to try log and get down my current knowledge of Pokemon VGC and my current understanding of the game with the current team I’ve been using for a month or so now.  To get this out the way, let’s go through the line against Louis Fontvielle’s regional-winning rain team:  flowchart TD     A[\"Opp leads: Basculegion + Raichu X\"] --&gt; B[\"Our lead: Garchomp + Farigiraf&lt;br/&gt;Back: Charizard + Sylveon\"]     B --&gt; C[\"Turn 1:&lt;br/&gt;Garchomp switches to Sylveon&lt;br/&gt;Farigiraf uses Thunderbolt on Basculegion\"]     C --&gt; D{\"Did they switch in Pelipper?\"}     D -- Yes --&gt; E[\"Farigiraf: Thunderbolt Pelipper&lt;br/&gt;Sylveon: Protect\"]     D -- No --&gt; F[\"Sylveon: Protect&lt;br/&gt;Farigiraf: Trick Room\"]"
   },
   
   {

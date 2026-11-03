@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>K</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2026-11-03T23:31:00+00:00</updated>
+  <updated>2026-11-03T23:34:00+00:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -22,7 +22,7 @@
   <entry>
     <title></title>
     <link href="http://localhost:4000/posts/2026-10-25-Mathjax-practise/" rel="alternate" type="text/html" title="" />
-    <published>2026-11-03T23:31:00+00:00</published>
+    <published>2026-11-03T23:34:00+00:00</published>
   
     <updated>2026-11-03T18:52:06+00:00</updated>
   
@@ -62,7 +62,7 @@
     
   
 
-  <summary>To get this out the way, let’s go through the line against Louis Fontvielle’s regional-winning rain team:  flowchart TD     A["Opp leads: Basculegion + Raichu X"] --&amp;gt; B["Our lead: Garchomp + Farigiraf&amp;lt;br/&amp;gt;Back: Charizard + Sylveon"]     B --&amp;gt; C["Turn 1:&amp;lt;br/&amp;gt;Garchomp switches to Sylveon&amp;lt;br/&amp;gt;Farigiraf uses Thunderbolt on Basculegion"]     C --&amp;gt; D{"Did they switch in Pel...</summary>
+  <summary>This post is to practise writing and posting these blog-like logs. It’s also to try log and get down my current knowledge of Pokemon VGC and my current understanding of the game with the current team I’ve been using for a month or so now.  To get this out the way, let’s go through the line against Louis Fontvielle’s regional-winning rain team:  flowchart TD     A["Opp leads: Basculegion + Raich...</summary>
 
   </entry>
 
