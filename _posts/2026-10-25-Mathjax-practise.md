@@ -26,7 +26,7 @@ $$
 \end{equation}
 $$
 \[
-E'= \frac{\Delta\sigma}{\Delta\epilson}
+  E' = \frac{\Delta\sigma}{\Delta\epilson}
 \]
 $$
 Can be referenced as \eqref{eq:label_name}.
