@@ -1,0 +1,97 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>K</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2026-11-03T23:31:00+00:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2026 your_full_name </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title></title>
+    <link href="http://localhost:4000/posts/2026-10-25-Mathjax-practise/" rel="alternate" type="text/html" title="" />
+    <published>2026-11-03T23:31:00+00:00</published>
+  
+    <updated>2026-11-03T18:52:06+00:00</updated>
+  
+    <id>http://localhost:4000/posts/2026-10-25-Mathjax-practise/</id>
+    <content type="text/html" src="http://localhost:4000/posts/2026-10-25-Mathjax-practise/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+  
+
+  <summary>\(\[   \frac{\partial y}{\partial x} \]\)  [block math whatever that means]    \(\begin{equation}   LaTeX_math_expression   \label{eq:label_name} \end{equation}\) [   E’ = \frac{\Delta\sigma}{\Delta\epilson} ] $$ Can be referenced as \eqref{eq:label_name}.    “Lorem ipsum dolor sit amet, \(LaTeX_math_expression\) consectetur adipiscing elit.”       \(LaTeX_math_expression\)   \(LaTeX_math_expre...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>AeroZard team guide and notes</title>
+    <link href="http://localhost:4000/posts/AeroZard-team/" rel="alternate" type="text/html" title="AeroZard team guide and notes" />
+    <published>2026-11-03T23:29:00+00:00</published>
+  
+    <updated>2026-11-03T23:29:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/AeroZard-team/</id>
+    <content type="text/html" src="http://localhost:4000/posts/AeroZard-team/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Pokemon" />
+    
+    <category term="VGC" />
+    
+  
+
+  <summary>To get this out the way, let’s go through the line against Louis Fontvielle’s regional-winning rain team:  flowchart TD     A["Opp leads: Basculegion + Raichu X"] --&amp;gt; B["Our lead: Garchomp + Farigiraf&amp;lt;br/&amp;gt;Back: Charizard + Sylveon"]     B --&amp;gt; C["Turn 1:&amp;lt;br/&amp;gt;Garchomp switches to Sylveon&amp;lt;br/&amp;gt;Farigiraf uses Thunderbolt on Basculegion"]     C --&amp;gt; D{"Did they switch in Pel...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Trying to apply search algorithms to soil mechanics related applications</title>
+    <link href="http://localhost:4000/posts/combining-soil-and-search/" rel="alternate" type="text/html" title="Trying to apply search algorithms to soil mechanics related applications" />
+    <published>2026-10-21T15:00:00+01:00</published>
+  
+    <updated>2026-10-21T15:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/combining-soil-and-search/</id>
+    <content type="text/html" src="http://localhost:4000/posts/combining-soil-and-search/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Projects" />
+    
+    <category term="Soil Mechanics" />
+    
+  
+
+  <summary>Recently, there have been advances in AI for a game I play often, which may change the way the community has to play the game, with irreversible consequences. While I will keep my personal feelings about that situation out of this post, it did start to get me to think: “Can these methods of learning be applied to testing in soil conditions?”. More specifically for piles in offshore wind farms, ...</summary>
+
+  </entry>
+
+</feed>
+
+
