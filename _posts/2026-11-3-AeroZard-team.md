@@ -1,7 +1,7 @@
 ---
 title: AeroZard team guide and notes
 date: 2026-11-03 23:29:00 +0000
-categories: [Pokemon, VGC]
+categories: [Pokemon, VGC, AeroZard, Rain]
 tags: [pokemon, vgc]
 mermaid: true
 ---
@@ -19,3 +19,5 @@ flowchart TD
     D -- No --> F["Sylveon: Protect<br/>Farigiraf: Trick Room"]
     F --> G["Hyper voice + thunderbolt basc"]
 ```
+
+This generally felt like a good matchup once I realised the opponent really wants to ice beam the chomp. The realistic worst case scenario is raichu -> peli + muddy water, since sylveon and farig take considerable damage. I won almost all these games, though middle game can get difficult, with a couple of my games being tricky to navigate in the middle and endgame.
