@@ -17,4 +17,5 @@ flowchart TD
     C --> D{"Did they switch in Pelipper?"}
     D -- Yes --> E["Farigiraf: Thunderbolt Pelipper<br/>Sylveon: Protect"]
     D -- No --> F["Sylveon: Protect<br/>Farigiraf: Trick Room"]
+    F --> G["Hyper voice + thunderbolt basc"]
 ```
