@@ -1,7 +1,7 @@
 ---
 title: AeroZard team guide and notes
-date: 2026-11-03 23:29:00 +0000
-categories: [Pokemon, VGC, AeroZard, Rain]
+date: 2026-11-03 23:29:00 +0100
+categories: [Pokemon, VGC]
 tags: [pokemon, vgc]
 mermaid: true
 ---
